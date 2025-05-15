@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/rayTracing.dir/link.d CMakeFiles/rayTracing.dir/main.cpp.o -o rayTracing
