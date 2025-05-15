@@ -1,3 +1,0 @@
-/home/shar/rayTracing/build/CMakeFiles/rayTracing.dir
-/home/shar/rayTracing/build/CMakeFiles/edit_cache.dir
-/home/shar/rayTracing/build/CMakeFiles/rebuild_cache.dir
